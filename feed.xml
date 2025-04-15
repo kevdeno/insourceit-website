@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>INSOURCE IT</title>
-    <link href="https://kevdeno.github.io/insourceit-website/feed.xml" rel="self" />
-    <link href="https://kevdeno.github.io/insourceit-website" />
+    <link href="https://insource.it/feed.xml" rel="self" />
+    <link href="https://insource.it" />
     <updated>1969-12-31T18:00:00-06:00</updated>
     <author>
         <name>Kevin</name>
     </author>
-    <id>https://kevdeno.github.io/insourceit-website</id>
+    <id>https://insource.it</id>
 
 </feed>

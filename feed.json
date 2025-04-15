@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "INSOURCE IT",
     "description": "",
-    "home_page_url": "https://kevdeno.github.io/insourceit-website",
-    "feed_url": "https://kevdeno.github.io/insourceit-website/feed.json",
+    "home_page_url": "https://insource.it",
+    "feed_url": "https://insource.it/feed.json",
     "user_comment": "",
-    "icon": "https://kevdeno.github.io/insourceit-website/media/website/insource-logo-300dpi.png",
+    "icon": "https://insource.it/media/website/insource-logo-300dpi.png",
     "author": {
         "name": "Kevin"
     },

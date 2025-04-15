@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://kevdeno.github.io/insourceit-website/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://insource.it/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://kevdeno.github.io/insourceit-website/</loc>
+<loc>https://insource.it/</loc>
 </url>
 <url>
-<loc>https://kevdeno.github.io/insourceit-website/about.html</loc>
+<loc>https://insource.it/about.html</loc>
 <lastmod>2025-04-15T12:06:59-05:00</lastmod>
 </url>
 <url>
-<loc>https://kevdeno.github.io/insourceit-website/insights.html</loc>
+<loc>https://insource.it/insights.html</loc>
 <lastmod>2025-04-15T10:06:18-05:00</lastmod>
 </url>
 <url>
-<loc>https://kevdeno.github.io/insourceit-website/welcome-to-insource-it.html</loc>
+<loc>https://insource.it/welcome-to-insource-it.html</loc>
 <lastmod>2025-04-15T12:09:02-05:00</lastmod>
 </url>
 </urlset>
